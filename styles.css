@@ -1,0 +1,24 @@
+
+
+.first-row{
+	background-color: gray;
+	height: 87px;
+}
+.first-H1{
+	color: white;
+	font-size: 40px;
+}
+.second-row{
+	background-color: gainsboro;
+	height: 72px;
+}
+.col-p{
+  border-top: 1px solid gray;
+  border-left: 1px solid gray;
+  border-bottom: 0px;
+  border-right: 1px solid gray;
+}
+
+.orange{
+	background-color: orange;
+}
